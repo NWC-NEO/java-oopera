@@ -1,2 +1,2 @@
-# java-oopera
+# java-mytheatre
 Repository for homework project.
